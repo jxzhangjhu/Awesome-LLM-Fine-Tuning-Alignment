@@ -55,9 +55,7 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2403.03187)]
 
 **Long-form factuality in large language models** \
 *Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du, Quoc V. Le* \
-arXiv 2024. [[Paper](https://arxiv.org/abs/2403.18802)][[Github](https://github.com/google-deepmind/long-form-factuality
-
-)]
+arXiv 2024. [[Paper](https://arxiv.org/abs/2403.18802)][[Github](https://github.com/google-deepmind/long-form-factuality)]
 
 
 ## Data, Knowledge, etc
