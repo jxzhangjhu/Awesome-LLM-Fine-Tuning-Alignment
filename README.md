@@ -2,6 +2,7 @@
 LLM fine-tuning 
 
 
+
 # Papers 
 
 
@@ -26,13 +27,12 @@ LLM fine-tuning
 *Jason Wei, Maarten Bosma, Vincent Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V Le* \
 ICLR 2022. [[Paper](https://openreview.net/forum?id=gEZrGCozdqR)]
 
+**Instruction Tuning for Large Language Models: A Survey** \
+*Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu, Tianwei Zhang, Fei Wu, Guoyin Wang* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2308.10792)] [[Github](https://github.com/xiaoya-li/instruction-tuning-survey)] 
 
 
-### Reinforcement Learning from Human Feedback (RLHF)
-
-
-
-### Direct Policy Optimization (DPO)
+### RLHF & DPO
 
 **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** \
 *Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn*  \
@@ -53,6 +53,12 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2403.01432)][[Github](https://github.
 *Akari Asai, Zexuan Zhong, Danqi Chen, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi, Wen-tau Yih* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.03187)]
 
+**Long-form factuality in large language models** \
+*Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du, Quoc V. Le* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2403.18802)][[Github](https://github.com/google-deepmind/long-form-factuality
+
+)]
+
 
 ## Data, Knowledge, etc
 
@@ -63,6 +69,22 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2402.09739)][[Github](https://github.
 **LESS: Selecting Influential Data for Targeted Instruction Tuning** \
 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2402.04333)][[Github](https://github.com/princeton-nlp/less)]
+
+
+
+## Resources 
+
+*Awesome LLMs Fine-Tuning* \
+https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning 
+
+*How to Fine-Tune LLMs in 2024 with Hugging Face* \
+https://www.philschmid.de/fine-tune-llms-in-2024-with-trl 
+
+*Huggingface Blog* \
+https://huggingface.co/blog
+
+*Instruction Tuning: What is fine-tuning?* \
+https://datascientest.com/en/instruction-tuning-what-is-fine-tuning#:~:text=Whereas%20supervised%20fine%2Dtuning%20consists,more%20easily%20to%20new%20tasks.
 
 
 
