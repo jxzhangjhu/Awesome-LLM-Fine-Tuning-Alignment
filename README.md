@@ -68,6 +68,10 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2402.09739)][[Github](https://github.
 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2402.04333)][[Github](https://github.com/princeton-nlp/less)]
 
+**Plug-and-Play Knowledge Injection for Pre-trained Language Models** \
+*Zhengyan Zhang, Zhiyuan Zeng, Yankai Lin, Huadong Wang, Deming Ye, Chaojun Xiao, Xu Han, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou* \
+ACL 2023. [[Paper](https://arxiv.org/abs/2305.17691)][[Github](https://github.com/thunlp/knowledge-plugin)]
+
 
 
 ## Resources 
