@@ -41,10 +41,6 @@ NeurIPS 2023. [[Paper](https://openreview.net/forum?id=HPuSIXJaa9&utm_source=sub
 
 ## RAG vs Fine-tuning 
 
-**Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs** \
-*Oded Ovadia, Menachem Brief, Moshik Mishaeli, Oren Elisha* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2312.05934)]
-
 **Fine Tuning vs. Retrieval Augmented Generation for Less Popular Knowledge**  \
 *Heydar Soudani, Evangelos Kanoulas, Faegheh Hasibi* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.01432)][[Github](https://github.com/heydarsoudani/ragvsft)]
@@ -58,7 +54,8 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2403.03187)]
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.18802)][[Github](https://github.com/google-deepmind/long-form-factuality)]
 
 
-## Data, Knowledge, etc
+## Data quality, knowledge injection, TBD
+
 
 **QuRating: Selecting High-Quality Data for Training Language Models**  \
 *Alexander Wettig, Aatmik Gupta, Saumya Malik, Danqi Chen* \
@@ -67,6 +64,10 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2402.09739)][[Github](https://github.
 **LESS: Selecting Influential Data for Targeted Instruction Tuning** \
 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2402.04333)][[Github](https://github.com/princeton-nlp/less)]
+
+**Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs** \
+*Oded Ovadia, Menachem Brief, Moshik Mishaeli, Oren Elisha* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2312.05934)]
 
 **Plug-and-Play Knowledge Injection for Pre-trained Language Models** \
 *Zhengyan Zhang, Zhiyuan Zeng, Yankai Lin, Huadong Wang, Deming Ye, Chaojun Xiao, Xu Han, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou* \
