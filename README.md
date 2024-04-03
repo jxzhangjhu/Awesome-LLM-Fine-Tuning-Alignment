@@ -41,6 +41,10 @@ NeurIPS 2023. [[Paper](https://openreview.net/forum?id=HPuSIXJaa9&utm_source=sub
 
 ## RAG vs Fine-tuning 
 
+**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture** \
+*Angels Balaguer, et al* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2401.08406)]
+
 **Fine Tuning vs. Retrieval Augmented Generation for Less Popular Knowledge**  \
 *Heydar Soudani, Evangelos Kanoulas, Faegheh Hasibi* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.01432)][[Github](https://github.com/heydarsoudani/ragvsft)]
@@ -89,7 +93,10 @@ https://huggingface.co/blog
 *Instruction Tuning: What is fine-tuning?* \
 https://datascientest.com/en/instruction-tuning-what-is-fine-tuning#:~:text=Whereas%20supervised%20fine%2Dtuning%20consists,more%20easily%20to%20new%20tasks.
 
-
+*SOTA Knowledge Injection?* 
+https://www.reddit.com/r/LocalLLaMA/comments/1as5bn4/sota_knowledge_injection/
+https://www.reddit.com/r/LocalLLaMA/comments/1ao2bzu/best_way_to_add_knowledge_to_a_llm/
+https://www.youtube.com/watch?v=xz-HRZhjkWk
 
 <!-- course
 https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week3_finetuning_llms.md
