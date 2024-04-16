@@ -57,6 +57,9 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2403.03187)]
 *Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Dustin Tran, Daiyi Peng, Ruibo Liu, Da Huang, Cosmo Du, Quoc V. Le* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.18802)][[Github](https://github.com/google-deepmind/long-form-factuality)]
 
+**Fine-tuning Language Models for Factuality** \
+*Katherine Tian, Eric Mitchell, Huaxiu Yao, Christopher D. Manning, Chelsea Finn*  \
+Arxiv 2023. [[Paper](https://arxiv.org/abs/2311.08401)]
 
 ## Data 
 
@@ -131,12 +134,6 @@ EMNLP 2023. [[Paper](https://arxiv.org/abs/2311.01150)]
 *Denis Emelin, Daniele Bonadiman, Sawsan Alqahtani, Yi Zhang, Saab Mansour* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2212.08120)] [[Github](https://github.com/amazon-research/domain-knowledge-injection)]
 
-
-## Factuality 
-
-**Fine-tuning Language Models for Factuality** \
-*Katherine Tian, Eric Mitchell, Huaxiu Yao, Christopher D. Manning, Chelsea Finn* \ 
-Arxiv 2023. [[Paper](https://arxiv.org/abs/2311.08401)]
 
 
 
