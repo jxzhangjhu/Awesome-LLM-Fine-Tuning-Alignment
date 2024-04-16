@@ -58,8 +58,7 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2403.03187)]
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.18802)][[Github](https://github.com/google-deepmind/long-form-factuality)]
 
 
-## Data quality, knowledge injection, TBD
-
+## Data quality
 
 **QuRating: Selecting High-Quality Data for Training Language Models**  \
 *Alexander Wettig, Aatmik Gupta, Saumya Malik, Danqi Chen* \
@@ -69,6 +68,18 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2402.09739)][[Github](https://github.
 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2402.04333)][[Github](https://github.com/princeton-nlp/less)]
 
+
+## knowledge injection and editing 
+
+**A Comprehensive Study of Knowledge Editing for Large Language Models** \
+*Ningyu Zhang et al.* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2401.01286)][[Github](https://github.com/zjunlp/easyedit)] [[Github2](https://github.com/zjunlp/knowledgeeditingpapers)]
+
+
+**Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning** \
+*Nick Mecklenburg, Yiyou Lin, Xiaoxiao Li, Daniel Holstein, Leonardo Nunes, Sara Malvar, Bruno Silva, Ranveer Chandra, Vijay Aski, Pavan Kumar Reddy Yannam, Tolga Aktas, Todd Hendry* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2404.00213)]
+
 **Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs** \
 *Oded Ovadia, Menachem Brief, Moshik Mishaeli, Oren Elisha* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2312.05934)]
@@ -76,6 +87,18 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2312.05934)]
 **Plug-and-Play Knowledge Injection for Pre-trained Language Models** \
 *Zhengyan Zhang, Zhiyuan Zeng, Yankai Lin, Huadong Wang, Deming Ye, Chaojun Xiao, Xu Han, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou* \
 ACL 2023. [[Paper](https://arxiv.org/abs/2305.17691)][[Github](https://github.com/thunlp/knowledge-plugin)]
+
+**KnowGPT: Knowledge Injection for Large Language Models** \
+*Qinggang Zhang, Junnan Dong, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2312.06185)]
+
+**Revisiting the Knowledge Injection Frameworks** \
+*Peng Fu, Yiming Zhang, Haobo Wang, Weikang Qiu, Junbo Zhao* \
+EMNLP 2023. [[Paper](https://arxiv.org/abs/2311.01150)]
+
+**Injecting Domain Knowledge in Language Models for Task-Oriented Dialogue Systems** \
+*Denis Emelin, Daniele Bonadiman, Sawsan Alqahtani, Yi Zhang, Saab Mansour* \
+EMNLP 2022. [[Paper](https://arxiv.org/abs/2212.08120)] [[Github](https://github.com/amazon-research/domain-knowledge-injection)]
 
 
 
@@ -97,6 +120,9 @@ https://datascientest.com/en/instruction-tuning-what-is-fine-tuning#:~:text=Wher
 https://www.reddit.com/r/LocalLLaMA/comments/1as5bn4/sota_knowledge_injection/
 https://www.reddit.com/r/LocalLLaMA/comments/1ao2bzu/best_way_to_add_knowledge_to_a_llm/
 https://www.youtube.com/watch?v=xz-HRZhjkWk
+
+*Battling LLM Hallucinations in Biomedicine: The Role of Knowledge Graphs in Knowledge Injection Techniques*
+https://www.wisecube.ai/blog/battling-llm-hallucinations-in-biomedicine-the-role-of-knowledge-graphs-in-knowledge-injection-techniques/
 
 <!-- course
 https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week3_finetuning_llms.md
