@@ -79,10 +79,10 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2401.01286)][[Github](https://github.
 
 **Instruction-tuned Language Models are Better Knowledge Learners** \
 *Zhengbao Jiang, Zhiqing Sun, Weijia Shi, Pedro Rodriguez, Chunting Zhou, Graham Neubig, Xi Victoria Lin, Wen-tau Yih, Srinivasan Iyer* \
-arXiv 2024. [[Paper](https://arxiv.org/abs/2402.12847)] \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2402.12847)] 
 
 **Instruction Tuning with Human Curriculum** \
-*Bruce W. Lee, Hyunsoo Cho, Kang Min Yoo* \ 
+*Bruce W. Lee, Hyunsoo Cho, Kang Min Yoo*  \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2310.09518)]
 
 **Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning** \
