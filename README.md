@@ -77,6 +77,7 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2402.04333)][[Github](https://github.
 *Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou, Andrew M. Dai* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.07503)] 
 
+
 ## Knowledge 
 
 ### Knowledge distilltion 
@@ -113,6 +114,10 @@ WWW 2024. [[Paper](https://arxiv.org/abs/2403.09712)]
 **Plug-and-Play Knowledge Injection for Pre-trained Language Models** \
 *Zhengyan Zhang, Zhiyuan Zeng, Yankai Lin, Huadong Wang, Deming Ye, Chaojun Xiao, Xu Han, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou* \
 ACL 2023. [[Paper](https://arxiv.org/abs/2305.17691)][[Github](https://github.com/thunlp/knowledge-plugin)]
+
+**KILM: Knowledge Injection into Encoder-Decoder Language Models** \
+*Yan Xu, Mahdi Namazifar, Devamanyu Hazarika, Aishwarya Padmakumar, Yang Liu, Dilek Hakkani-Tür* \
+ACL 2023. [[Paper(https://arxiv.org/abs/2302.09170)]] [[Github](https://github.com/alexa/kilm)]
 
 **KnowGPT: Knowledge Injection for Large Language Models** \
 *Qinggang Zhang, Junnan Dong, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang* \
