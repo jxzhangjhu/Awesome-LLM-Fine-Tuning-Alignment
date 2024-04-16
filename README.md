@@ -58,7 +58,9 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2403.03187)]
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.18802)][[Github](https://github.com/google-deepmind/long-form-factuality)]
 
 
-## Data quality
+## Data 
+
+### Data selection
 
 **QuRating: Selecting High-Quality Data for Training Language Models**  \
 *Alexander Wettig, Aatmik Gupta, Saumya Malik, Danqi Chen* \
@@ -68,14 +70,29 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2402.09739)][[Github](https://github.
 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2402.04333)][[Github](https://github.com/princeton-nlp/less)]
 
-## Knowledge editing
+
+### Data synthesis 
+
+**Best Practices and Lessons Learned on Synthetic Data for Language Models** \
+*Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou, Andrew M. Dai* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2404.07503)] 
+
+## Knowledge 
+
+### Knowledge distilltion 
+**Propagating Knowledge Updates to LMs Through Distillation** \
+*Shankar Padmanabhan, Yasumasa Onoe, Michael Zhang, Greg Durrett, Eunsol Choi*\
+NeurIPS 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/932147114c48f8b04d41aebc0c631158-Paper-Conference.pdf)][[Github](https://github.com/shankarp8/knowledge_distillation)]
+
+
+### Knowledge editing
 
 **A Comprehensive Study of Knowledge Editing for Large Language Models** \
 *Ningyu Zhang et al.* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2401.01286)][[Github](https://github.com/zjunlp/easyedit)] [[Github2](https://github.com/zjunlp/knowledgeeditingpapers)]
 
 
-## knowledge injection 
+### Knowledge injection 
 
 **Instruction-tuned Language Models are Better Knowledge Learners** \
 *Zhengbao Jiang, Zhiqing Sun, Weijia Shi, Pedro Rodriguez, Chunting Zhou, Graham Neubig, Xi Victoria Lin, Wen-tau Yih, Srinivasan Iyer* \
@@ -88,6 +105,10 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2310.09518)]
 **Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning** \
 *Nick Mecklenburg, Yiyou Lin, Xiaoxiao Li, Daniel Holstein, Leonardo Nunes, Sara Malvar, Bruno Silva, Ranveer Chandra, Vijay Aski, Pavan Kumar Reddy Yannam, Tolga Aktas, Todd Hendry* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.00213)]
+
+**A Knowledge-Injected Curriculum Pretraining Framework for Question Answering** \
+*Xin Lin, Tianhuang Su, Zhenya Huang, Shangzi Xue, Haifeng Liu, Enhong Chen* \
+WWW 2024. [[Paper](https://arxiv.org/abs/2403.09712)] 
 
 **Plug-and-Play Knowledge Injection for Pre-trained Language Models** \
 *Zhengyan Zhang, Zhiyuan Zeng, Yankai Lin, Huadong Wang, Deming Ye, Chaojun Xiao, Xu Han, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou* \
