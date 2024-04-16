@@ -132,6 +132,15 @@ EMNLP 2023. [[Paper](https://arxiv.org/abs/2311.01150)]
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2212.08120)] [[Github](https://github.com/amazon-research/domain-knowledge-injection)]
 
 
+## Factuality 
+
+**Fine-tuning Language Models for Factuality** \
+*Katherine Tian, Eric Mitchell, Huaxiu Yao, Christopher D. Manning, Chelsea Finn* \ 
+Arxiv 2023. [[Paper](https://arxiv.org/abs/2311.08401)]
+
+
+
+
 
 ## Resources 
 
