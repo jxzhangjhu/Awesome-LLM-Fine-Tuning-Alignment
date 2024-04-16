@@ -68,29 +68,26 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2402.09739)][[Github](https://github.
 *Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2402.04333)][[Github](https://github.com/princeton-nlp/less)]
 
-
-## knowledge injection and editing 
+## Knowledge editing
 
 **A Comprehensive Study of Knowledge Editing for Large Language Models** \
 *Ningyu Zhang et al.* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2401.01286)][[Github](https://github.com/zjunlp/easyedit)] [[Github2](https://github.com/zjunlp/knowledgeeditingpapers)]
 
+
+## knowledge injection 
+
 **Instruction-tuned Language Models are Better Knowledge Learners** \
 *Zhengbao Jiang, Zhiqing Sun, Weijia Shi, Pedro Rodriguez, Chunting Zhou, Graham Neubig, Xi Victoria Lin, Wen-tau Yih, Srinivasan Iyer* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2402.12847)] \
 
-**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture** \
-*Angels Balaguer, Vinamra Benara, Renato Luiz de Freitas Cunha, Roberto de M. Estevão Filho, Todd Hendry, Daniel Holstein, Jennifer Marsman, Nick Mecklenburg, Sara Malvar, Leonardo O. Nunes, Rafael Padilha, Morris Sharp, Bruno Silva, Swati Sharma, Vijay Aski, Ranveer Chandra* \
-arXiv 2024. [[Paper](https://arxiv.org/abs/2401.08406)] \
-
+**Instruction Tuning with Human Curriculum** \
+*Bruce W. Lee, Hyunsoo Cho, Kang Min Yoo* \ 
+arXiv 2024. [[Paper](https://arxiv.org/abs/2310.09518)]
 
 **Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning** \
 *Nick Mecklenburg, Yiyou Lin, Xiaoxiao Li, Daniel Holstein, Leonardo Nunes, Sara Malvar, Bruno Silva, Ranveer Chandra, Vijay Aski, Pavan Kumar Reddy Yannam, Tolga Aktas, Todd Hendry* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.00213)]
-
-**Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs** \
-*Oded Ovadia, Menachem Brief, Moshik Mishaeli, Oren Elisha* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2312.05934)]
 
 **Plug-and-Play Knowledge Injection for Pre-trained Language Models** \
 *Zhengyan Zhang, Zhiyuan Zeng, Yankai Lin, Huadong Wang, Deming Ye, Chaojun Xiao, Xu Han, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou* \
