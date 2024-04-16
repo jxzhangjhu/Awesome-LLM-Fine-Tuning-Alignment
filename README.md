@@ -75,6 +75,14 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2402.04333)][[Github](https://github.
 *Ningyu Zhang et al.* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2401.01286)][[Github](https://github.com/zjunlp/easyedit)] [[Github2](https://github.com/zjunlp/knowledgeeditingpapers)]
 
+**Instruction-tuned Language Models are Better Knowledge Learners** \
+*Zhengbao Jiang, Zhiqing Sun, Weijia Shi, Pedro Rodriguez, Chunting Zhou, Graham Neubig, Xi Victoria Lin, Wen-tau Yih, Srinivasan Iyer* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2402.12847)] \
+
+**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture** \
+*Angels Balaguer, Vinamra Benara, Renato Luiz de Freitas Cunha, Roberto de M. Estevão Filho, Todd Hendry, Daniel Holstein, Jennifer Marsman, Nick Mecklenburg, Sara Malvar, Leonardo O. Nunes, Rafael Padilha, Morris Sharp, Bruno Silva, Swati Sharma, Vijay Aski, Ranveer Chandra* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2401.08406)] \
+
 
 **Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning** \
 *Nick Mecklenburg, Yiyou Lin, Xiaoxiao Li, Daniel Holstein, Leonardo Nunes, Sara Malvar, Bruno Silva, Ranveer Chandra, Vijay Aski, Pavan Kumar Reddy Yannam, Tolga Aktas, Todd Hendry* \
