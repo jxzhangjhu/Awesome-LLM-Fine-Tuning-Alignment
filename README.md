@@ -38,12 +38,21 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2308.10792)] [[Github](https://github
 
 ### RLHF & DPO
 
+**Learn Your Reference Model for Real Good Alignment** \
+*Alexey Gorbatovski, Boris Shaposhnikov, Alexey Malakhov, Nikita Surnachev, Yaroslav Aksenov, Ian Maksimov, Nikita Balagansky, Daniil Gavrilov* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2404.09656)]
+
+
 **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** \
 *Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn*  \
 NeurIPS 2023. [[Paper](https://openreview.net/forum?id=HPuSIXJaa9&utm_source=substack&utm_medium=email)]
 
 
 ## RAG vs Fine-tuning 
+
+**How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior** \
+*Kevin Wu, Eric Wu, James Zou* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2404.10198)]
 
 **RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture** \
 *Angels Balaguer, et al* \
