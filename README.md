@@ -15,6 +15,10 @@ LLM fine-tuning
 
 ## Supervised Fine-Tuning Methods
 
+**LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models** \
+*Yaowei Zheng, Richong Zhang, Junhao Zhang, Yanhan Ye, Zheyan Luo, Yongqiang Ma* \
+ArXiv 2024. [[Paper](https://arxiv.org/abs/2403.13372)][[Github](https://github.com/hiyouga/llama-factory)] 
+
 ### Parameter-Efficient Fine-Tuning (PEFT)
 
 
