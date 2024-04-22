@@ -6,6 +6,16 @@ LLM fine-tuning
 # Papers 
 
 
+## Pretraining 
+
+
+### Continual learning
+**Continual Learning for Large Language Models: A Survey**  \
+*Tongtong Wu, Linhao Luo, Yuan-Fang Li, Shirui Pan, Thuy-Trang Vu, Gholamreza Haffari* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2402.01364)]
+
+
+
 ## Unsupervised Fine-Tuning 
 
 ### Unsupervised Full Fine-Tuning
@@ -42,7 +52,7 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2308.10792)] [[Github](https://github
 *Alexey Gorbatovski, Boris Shaposhnikov, Alexey Malakhov, Nikita Surnachev, Yaroslav Aksenov, Ian Maksimov, Nikita Balagansky, Daniil Gavrilov* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.09656)]
 
-
+sw
 **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** \
 *Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn*  \
 NeurIPS 2023. [[Paper](https://openreview.net/forum?id=HPuSIXJaa9&utm_source=substack&utm_medium=email)]
@@ -96,7 +106,19 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2404.07503)]
 
 ## Knowledge 
 
+
+### Knowledge Grounding 
+
+**StructLM: Towards Building Generalist Models for Structured Knowledge Grounding** \
+*Alex Zhuang, Ge Zhang, Tianyu Zheng, Xinrun Du, Junjie Wang, Weiming Ren, Stephen W. Huang, Jie Fu, Xiang Yue, Wenhu Chen* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2402.16671)][[Github](https://tiger-ai-lab.github.io/StructLM/)]
+
 ### Knowledge distilltion 
+
+**A Survey on Knowledge Distillation of Large Language Models** \
+*Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, Tianyi Zhou* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2402.13116)][[Github](https://github.com/tebmer/awesome-knowledge-distillation-of-llms)]
+
 **Propagating Knowledge Updates to LMs Through Distillation** \
 *Shankar Padmanabhan, Yasumasa Onoe, Michael Zhang, Greg Durrett, Eunsol Choi*\
 NeurIPS 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/932147114c48f8b04d41aebc0c631158-Paper-Conference.pdf)][[Github](https://github.com/shankarp8/knowledge_distillation)]
@@ -122,6 +144,10 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2310.09518)]
 **Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning** \
 *Nick Mecklenburg, Yiyou Lin, Xiaoxiao Li, Daniel Holstein, Leonardo Nunes, Sara Malvar, Bruno Silva, Ranveer Chandra, Vijay Aski, Pavan Kumar Reddy Yannam, Tolga Aktas, Todd Hendry* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.00213)]
+
+**Adapting Large Language Models via Reading Comprehension** \
+*Daixuan Cheng, Shaohan Huang, Furu Wei* \
+ICLR 2024. [[Paper](https://arxiv.org/abs/2309.09530)][[Github](https://github.com/microsoft/lmops)]
 
 **A Knowledge-Injected Curriculum Pretraining Framework for Question Answering** \
 *Xin Lin, Tianhuang Su, Zhenya Huang, Shangzi Xue, Haifeng Liu, Enhong Chen* \
