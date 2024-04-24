@@ -60,6 +60,11 @@ NeurIPS 2023. [[Paper](https://openreview.net/forum?id=HPuSIXJaa9&utm_source=sub
 
 ## RAG vs Fine-tuning 
 
+
+**Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs** \
+*Oded Ovadia, Menachem Brief, Moshik Mishaeli, Oren Elisha* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2312.05934)]
+
 **How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior** \
 *Kevin Wu, Eric Wu, James Zou* \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.10198)]
